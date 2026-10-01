@@ -1,5 +1,5 @@
 streamlit
 pypdf
-sentences-transformers
+sentence-transformers
 chromadb
 ollama
